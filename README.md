@@ -1,0 +1,2 @@
+# SCSE3040-P06-0557
+MLOps Practical 06 
